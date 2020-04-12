@@ -32,3 +32,6 @@ Three different workflows are available depending on which library preparation k
   - NEBNext data: https://usegalaxy.org/u/robin/w/smetaseq---nebnext-input
 
 4) For each input file, sMETASeq provides three output files. 
+
+## Contact Us :
+Please direct any questions or concerns on the [issue] (https://github.com/MjelleLab/sMETASeq/issues) site.
