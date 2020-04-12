@@ -27,6 +27,8 @@ Sneak peek of the paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=352
 
 Three different workflows are available depending on which library preparation kit was using to create the sRNA-data. Download and input the desired workflow into your Galaxy environment using the **Import** tab under **Workflow**
 
-  - TruSeq data:
+  - TruSeq data: https://usegalaxy.org/u/robin/w/smetaseq---truseq-input
   - NextFlex data: https://usegalaxy.org/u/robin/w/smetaseq---nextflex-input
-  - NEBNext data: 
+  - NEBNext data: https://usegalaxy.org/u/robin/w/smetaseq---nebnext-input
+
+4) For each input file, sMETASeq provides three output files. 
