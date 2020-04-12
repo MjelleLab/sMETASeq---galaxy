@@ -16,12 +16,12 @@ Sneak peek of the paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=352
 
 1) Create Galaxy account and login: https://usegalaxy.org/login
 
-2) Download references files and unzip the files:
+2) Download references files to your local computer and unzip the RNACentral file:
   - RNACentral: ftp://ftp.ebi.ac.uk/pub/databases/RNAcentral/releases/14.0/genome_coordinates/gff3/homo_sapiens.GRCh38.gff3.gz
   - miRBase: ftp://mirbase.org/pub/mirbase/CURRENT/genomes/hsa.gff3
 	
 3) If not in fastq.gz format, prepare gzipped fastq files
-4) In Galaxy, load Fastq.gz files and the two reference files using "**>Get Data**"  and   "**>Upload File** from your computer" 
+4) In Galaxy, load fastq.gz files and the two reference files using "**>Get Data**"  and   "**>Upload File** from your computer". 
 
 4) Download and import sMETASeq Galaxy workflow 
 
