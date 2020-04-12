@@ -24,6 +24,7 @@ Sneak peek of the paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=352
 4) In Galaxy, load Fastq.gz files and the two reference files using "**>Get Data**"  and   "**>Upload File** from your computer" 
 
 4) Download and import sMETASeq Galaxy workflow 
+
 Three different workflows are available depending on which library preparation kit was using to create the sRNA-data. Download and input the desired workflow into your Galaxy environment using the **Import** tab under **Workflow**
 
   - TruSeq data:
