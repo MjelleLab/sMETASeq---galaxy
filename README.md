@@ -1,5 +1,4 @@
 # sMETASeq
-sMETASeq
 This tutorial shows how to run sMETASeq using Galaxy (https://usegalaxy.org/)
 
 ## Purpose :
@@ -11,6 +10,8 @@ Additional resources:
 Sneak peek of the paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3525549
 
 ##  sMETASeq Galaxy pipeline 
+
+This tutorial shows step-by-step how to generate a metagenomics and host small RNA count tables from small RNA sequencing data. The output of the pipeline is expression tables that can be further analyzed within a statistical framwork such as [R](https://www.r-project.org/). 
 
 1) Create Galaxy account and login: https://usegalaxy.org/login
 
