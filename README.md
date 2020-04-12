@@ -12,8 +12,6 @@ Sneak peek of the paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=352
 
 ##  sMETASeq Galaxy pipeline 
 
-## Preparing to run sMETASeq
-
 1) Create Galaxy account and login: https://usegalaxy.org/login
 
 2) Download references files to your local computer and unzip the RNACentral file:
