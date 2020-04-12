@@ -12,7 +12,7 @@ Sneak peek of the paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=352
 
 ##  sMETASeq Galaxy pipeline 
 
-## Requirements
+## Preparing to run sMETASeq
 
 1) Create Galaxy account and login: https://usegalaxy.org/login
 
@@ -21,4 +21,4 @@ Sneak peek of the paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=352
   - miRBase: ftp://mirbase.org/pub/mirbase/CURRENT/genomes/hsa.gff3
 	
 3) If not in fastq.gz format, prepare gzipped fastq files
-4) In Galaxy, load Fastq.gz files and the two reference files using "**>Get Data**"  and   "**>Upload file** from your computer" 
+4) In Galaxy, load Fastq.gz files and the two reference files using "**>Get Data**"  and   "**>Upload File** from your computer" 
