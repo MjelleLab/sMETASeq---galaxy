@@ -34,5 +34,4 @@ Three different workflows are available depending on which library preparation k
 4) For each input file, sMETASeq provides three output files. 
 
 ## Contact Us :
-Please direct any questions or concerns on the [issue] (https://github.com/MjelleLab/sMETASeq/issues)
-This site was built using [GitHub Pages](https://pages.github.com/).
+Please direct any questions or concerns on the [issue](https://github.com/MjelleLab/sMETASeq/issues) site.
