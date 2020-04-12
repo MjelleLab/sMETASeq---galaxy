@@ -31,7 +31,13 @@ Three different workflows are available depending on which library preparation k
   - NextFlex data: https://usegalaxy.org/u/robin/w/smetaseq---nextflex-input
   - NEBNext data: https://usegalaxy.org/u/robin/w/smetaseq---nebnext-input
 
-4) For each input file, sMETASeq provides three output files. 
+4) For each input file, sMETASeq provides three output files:
+
+  - miRNA profile:  Count data for mature miRNAs
+  - sncRNA profile: Count data for small RNAs within RNACentral
+  - Metagenomics profile: Count data for taxonomic labels within the kraken database
+  
+5) 
 
 ## Contact Us :
 Please direct any questions or concerns on the [issue](https://github.com/MjelleLab/sMETASeq/issues) site.
