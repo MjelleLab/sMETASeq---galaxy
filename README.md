@@ -21,7 +21,7 @@ Sneak peek of the paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=352
   - miRBase: ftp://mirbase.org/pub/mirbase/CURRENT/genomes/hsa.gff3
 	
 3) If not in fastq.gz format, prepare gzipped fastq files
-4) In Galaxy, load fastq.gz files and the two reference files using "**>Get Data**"  and   "**>Upload File** from your computer". 
+4) Within Galaxy, load fastq.gz files and the two reference files using "**>Get Data**"  and   "**>Upload File** from your computer". For larger files we recommend using FTP upload: https://galaxyproject.org/ftp-upload/
 
 4) Download and import sMETASeq Galaxy workflow 
 
