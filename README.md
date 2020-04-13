@@ -21,6 +21,9 @@ This tutorial shows step-by-step how to generate a metagenomics and host small R
 	
 3) If not in fastq.gz format, prepare gzipped fastq files
 4) Within Galaxy, load fastq.gz files and the two reference files using "**>Get Data**"  and   "**>Upload File** from your computer". For larger files we recommend using FTP upload: https://galaxyproject.org/ftp-upload/
+If working in a linux environment, files can be transferred via FTP using the following command : 
+[curl -T {"file1"} ftp://ftp.usegalaxy.eu --user robinmjelle@gmail.com --ssl] 
+In this example, file1 is transferred. 
 
 4) Download and import sMETASeq Galaxy workflow 
 
