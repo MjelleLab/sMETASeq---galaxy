@@ -1,5 +1,5 @@
 # sMETASeq
-This tutorial shows how to run sMETASeq using Galaxy (https://usegalaxy.org/)
+This tutorial shows how to run sMETASeq using Galaxy(1) (https://usegalaxy.org/)
 
 ## Purpose :
 
@@ -41,5 +41,10 @@ Three different workflows are available depending on which library preparation k
   
 5) 
 
-## Contact Us :
+## Contact Us
 Please direct any questions or concerns on the [issue](https://github.com/MjelleLab/sMETASeq/issues) site.
+
+## References
+
+(1) Afgan E et al. 2016 The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2016 update.
+Nucleic Acids Res. 44, W3–W10 doi:10.1093/nar/gkw343
